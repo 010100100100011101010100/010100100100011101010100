@@ -41,7 +41,7 @@ HOBBIES : [ "Guitar",
             "Cooking"  ]
 
   
-CURRENTLY LEARNING-[ "Advanced Corporate Finance",
+CURRENTLY LEARNING : [ "Advanced Corporate Finance",
                      "Cosmology",
                      "Rocket Propulsion",
                      "Advanced Physics",
