@@ -19,7 +19,7 @@ TECHNOLOGIES : ["webdev",
                 "AR/VR",
                 "Microcomputing",
                 "FPGA",
-                "AutoCAD"   ]
+                "CAD"   ]
          
 PROJECTS (top 6) : ["-> Guided Missile system with heat map signature",
                     "-> I_LOVE_YOU Virus Script with personal changes",
