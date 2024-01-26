@@ -57,5 +57,9 @@ CURRENTLY LEARNING : [ "Advanced Corporate Finance",
                      "Algebraic Topology",
                      "Number Theory" ]   
 ```
-<p>What the Snake doing??</p>
-![snake gif](https://github.com/010100100100011101010100/010100100100011101010100/blob/output/github-contribution-grid-snake.gif)
+<h3>What the Snake doing??</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
