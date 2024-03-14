@@ -19,7 +19,8 @@ TECHNOLOGIES : ["webdev",
 PROJECTS (top 6) : ["-> I_LOVE_YOU Virus Script with personal changes",
                     "-> Efficient Quant Models with high prediction rates of US stock market",
                     "-> AI robot + IoT device for everyday use and swachh bharat abhiyaan",
-                    "-> Blockchain platform for developers"]
+                    "-> Blockchain platform for developers",
+                    "-> eKYC for consumers with 2FA with the help of transcript analysis"]
 
 HOBBIES : [ "Guitar",
             "Singing",
@@ -48,11 +49,10 @@ CURRENTLY LEARNING : [ "Advanced Corporate Finance",
                      "Microcomputing",
                      "Financial Instruments",
                      "Algebraic Topology",
-                     "Number Theory" ]   
+                     "Number Theory" ]
+
+MY FUTURE : 'I am going to change a billion lives for good'
+
 ```
-<h3>What the Snake doing??</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+
